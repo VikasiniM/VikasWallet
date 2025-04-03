@@ -1,0 +1,48 @@
+PS C:\Users\vikas\OneDrive\Desktop\react app> npm create reduxlearning
+PS C:\Users\vikas\OneDrive\Desktop\react app> npm create vite@latest
+
+> npx
+> cva
+
+│
+◇  Project name:
+│  reduxlearning
+│
+◇  Select a framework:
+│  React
+│
+◇  Select a variant:
+│  JavaScript
+│
+◇  Scaffolding project in C:\Users\vikas\OneDrive\Desktop\react app\reduxlearning...
+│
+└  Done. Now run:
+
+  cd reduxlearning
+  npm install
+  npm run dev
+
+PS C:\Users\vikas\OneDrive\Desktop\react app> cd reduxlearning
+PS C:\Users\vikas\OneDrive\Desktop\react app\reduxlearning> npm install
+
+added 150 packages, and audited 151 packages in 48s
+
+30 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Users\vikas\OneDrive\Desktop\react app\reduxlearning> npm run dev
+
+> reduxlearning@0.0.0 dev
+> vite
+
+
+  VITE v6.2.4  ready in 557 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+PS C:\Users\vikas\OneDrive\Desktop\react app\reduxlearning> npm install @reduxjs/toolkit
+
+
+traditional way of redux is npm install redux-react
