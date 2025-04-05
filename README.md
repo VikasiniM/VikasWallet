@@ -25,8 +25,7 @@
 
 ## 📸 UI Preview
 
-![VikasWallet UI](./ss.jpg)
-
+![VikasWallet UI](ss.jpg)
 
 ---
 
