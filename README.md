@@ -1,38 +1,37 @@
 # 💼 VikasWallet – Personal Finance Tracker
 
-**VikasWallet** is a sleek and minimal web application to manage your income and expenses on a single page. It helps you stay on top of your finances with an intuitive user interface.
+**VikasWallet** is a minimal and user-friendly web app that lets you manage money with just two actions — credit and debit. It updates your balance instantly and keeps everything stored in your browser.
 
 ---
 
 ## ✨ Features
 
-- ➕ Add income and expense transactions
-- 🧾 View all transactions in a single-page layout
-- 📊 Automatically calculates balance
-- 💾 Data stored locally using LocalStorage
-- 📱 Responsive design for all screen sizes
+- ➕ Credit money to your wallet
+- ➖ Debit money from your wallet
+- 💰 Live wallet balance update
+- 💾 Stored in browser using LocalStorage
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Built With
 
-- **React JS** – UI library
-- **Tailwind CSS** – Utility-first CSS framework
-- **Vite** – Lightning-fast dev environment
-- **React Icons** – Icon support
+- React JS  
+- Tailwind CSS  
+- Vite  
+- React Icons
 
 ---
 
-## 📸 UI Preview
+## 🖼️ Screenshot
 
 ![VikasWallet UI](ss.jpg)
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
+## 🚀 How to Run
 
 ```bash
 git clone https://github.com/VikasiniM/VikasWallet.git
 cd VikasWallet
+npm install
+npm run dev
