@@ -22,9 +22,9 @@
 
 ---
 
-## 🖼️ Screenshot
+## 📸 UI Preview
 
-![VikasWallet UI](ss.jpg)
+![VikasWallet UI](https://github.com/VikasiniM/VikasWallet/blob/main/public/WhatsApp%20Image%202025-04-05%20at%2015.07.35_24caea20.jpg?raw=true)
 
 ---
 
