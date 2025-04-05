@@ -25,8 +25,7 @@
 
 ## 📸 UI Preview
 
-![VikasWallet UI](![image](https://github.com/user-attachments/assets/367bca33-2eee-4135-a837-e77fe4eace38)
-)
+![VikasWallet UI](./ss.jpg)
 
 ---
 
