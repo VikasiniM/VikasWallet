@@ -1,12 +1,39 @@
-# React + Vite
+# 💼 VikasWallet – Personal Finance Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**VikasWallet** is a sleek and minimal web application to manage your income and expenses on a single page. It helps you stay on top of your finances with an intuitive user interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ➕ Add income and expense transactions
+- 🧾 View all transactions in a single-page layout
+- 📊 Automatically calculates balance
+- 💾 Data stored locally using LocalStorage
+- 📱 Responsive design for all screen sizes
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React JS** – UI library
+- **Tailwind CSS** – Utility-first CSS framework
+- **Vite** – Lightning-fast dev environment
+- **React Icons** – Icon support
+
+---
+
+## 📸 UI Preview
+
+![VikasWallet UI](![image](https://github.com/user-attachments/assets/367bca33-2eee-4135-a837-e77fe4eace38)
+)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/VikasiniM/VikasWallet.git
+cd VikasWallet
